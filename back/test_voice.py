@@ -1,10 +1,10 @@
 from elevenlabs import ElevenLabs
 
 # Clé API ElevenLabs
-API_KEY = "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"
+API_KEY = "api_key"
 
 # Initialiser l'instance ElevenLabs
-api = ElevenLabs(api_key="sk_d80a27eab7b64170ba9ee3853eb02eb67d264ff4d7761feb")
+api = ElevenLabs(api_key="api_key")
 
 try:
     # Récupérer toutes les voix
