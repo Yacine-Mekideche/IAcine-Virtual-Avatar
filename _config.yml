@@ -1,0 +1,7 @@
+title: IAcine Virtual 3D Avatar  
+description: Real-time AI-powered 3D assistant using ChatGPT, ElevenLabs, and Blender  
+remote_theme: pages-themes/cayman@v0.2.0  
+plugins:
+  - jekyll-remote-theme
+markdown: kramdown
+show_downloads: true  # ✅ Show code download option
