@@ -113,8 +113,9 @@ You’ll see the 3D animated avatar in action, responding to your voice in real 
 
 
 
+---
 
-## 📬 Contact Me  
+## 📬 Contact Me
 
 💡 **Let's connect! Whether you're interested in AI, Machine Learning, or tech collaborations, feel free to reach out.**  
 
